@@ -98,12 +98,6 @@ namespace NumbersInCSharp
 
       CircleArea();
     }
-    // static void Main(string[] args)
-    // {
-    //   WorkingWithIntegers();
-    //   OrderPrecedence();
-    //   TestLimits();
-    //   WorkingWithDoubles();
-    // }
+
   }
 }
